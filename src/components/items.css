@@ -1,0 +1,27 @@
+#card_btn {
+  border: none;
+  outline: none;
+  margin-left: 10px;
+  background-color: #13c652;
+  color: white;
+}
+.card {
+  margin: 20px auto;
+  transition: 450ms;
+  border-radius: 10px;
+
+  border: 2px solid #d8cccc;
+  height: 400px;
+}
+.card:hover {
+  transform: scale(1.08);
+  opacity: 1;
+}
+p {
+  background-color: #e8e6e6;
+  width: 60px;
+  text-align: center;
+  margin-left: 10px;
+  font-weight: 500;
+  margin-top: revert;
+}
